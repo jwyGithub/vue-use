@@ -1,0 +1,31 @@
+{
+  "name": "vue-use",
+  "version": "1.0.0",
+  "description": "vue hooks",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jwyGithub/vue-use.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jwyGithub/vue-use/issues"
+  },
+  "homepage": "https://github.com/jwyGithub/vue-use#readme",
+  "devDependencies": {
+    "@jiangweiye/eslint-config": "^0.1.1",
+    "@jiangweiye/tsconfig": "^0.0.6",
+    "@types/node": "^20.10.0",
+    "eslint": "^8.54.0",
+    "typescript": "^5.3.2",
+    "vue": "^3.3.9"
+  },
+  "peerDependencies": {
+    "vue": "^3.3.9"
+  }
+}
